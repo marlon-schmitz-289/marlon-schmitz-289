@@ -4,6 +4,6 @@
   
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marlon-schmitz-289&repo=Notenverwaltung&theme=cobalt)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlon-schmitz-289&theme=cobalt)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlon-schmitz-289&theme=cobalt&count_private=true)
   
 </div>
